@@ -25,7 +25,7 @@ Calcification [2] <br/>
 13 - Pulmonary fibrosis <br/>
 14 - No finding <br/>
 
-2) <b>train.csv </b>- the train set metadata, each row represents an abnormality of one image, its class and bounding box. Some images can contain multiple abnormalities.
+2) <b>Image metadata</b>- the train set metadata, each row represents an abnormality of one image, its class and bounding box. Some images can contain multiple abnormalities.
 
 
 
