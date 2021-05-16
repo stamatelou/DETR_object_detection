@@ -2,6 +2,8 @@
 Automatic localization and classification of thoracic abnormalities from chest radiographs for the VinBigData Chest X-ray Abnormalities Detection Kaggle competition. 
 
 <b> Input Datasets: </b> <br/>
+1) Image dataset:  18000 images (train set: 15000 images, test set: 3000 images)
+
 The image dataset includes 14 types of thoracic abnormalities from chest radiographs as well as images with no abnormality detected (no finding). The different labels are as follows: <br/>
 0 - Aortic enlargement  <br/>
 1 - Atelectasis  <br/>
@@ -19,8 +21,7 @@ The image dataset includes 14 types of thoracic abnormalities from chest radiogr
 13 - Pulmonary fibrosis <br/>
 14 - No finding <br/>
 
-The provided images are annotated by 3 radiologists. The number of the provided images are 18000 (train set: 15000, test set: 3000). 
-1) 
+
 2) 
 
 train.csv - the train set metadata, with one row for each object, including a class and a bounding box. Some images in both test and train have multiple objects.
