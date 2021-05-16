@@ -31,3 +31,4 @@ Running the DETR model requires the use of a GPU and <b> Kaggle's notebook envir
 2) Upload it in Kaggle's notebook environment and before start running it  <br/>
 3) Click on the "Add data" button and add the data from the "VinBigData Chest X-ray Abnormalities Detection" competition  <br/>
 4) Add the data from the "vinbigdata-chest-xray-original-png"  <br/>
+5) Run the notebook (it might take approximately 8 hours to train the model) 
