@@ -3,7 +3,7 @@ Automatic localization and classification of thoracic abnormalities from chest r
 
 <b> Input Datasets: </b>
 The provided images include 14 types of thoracic abnormalities from chest radiographs as well as images with no abnormality detected (no object). 
-0 - Aortic enlargement
+0 - Aortic enlargement </>
 1 - Atelectasis
 2 - Calcification
 3 - Cardiomegaly
