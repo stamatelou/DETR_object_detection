@@ -22,11 +22,12 @@ The image dataset includes 14 types of thoracic abnormalities from chest radiogr
 13 - Pulmonary fibrosis <br/>
 14 - No finding <br/>
 
-B) <b>Image metadata</b>  <a href="https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection/data">(test and train folder)</a>  
+B) <b>Image metadata</b>  <a href="https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection/data">(train.csv)</a>  
 the train set metadata, each row represents an abnormality of one image, its class and bounding box. Some images can contain multiple abnormalities.
 
 <b> <H3> Prerequisites:</b></H3>
 Running the DETR model requires the use of a GPU and <b> Kaggle's notebook environment </b> can provide that. <br/>
-Download the notebook from this repository, upload it in Kaggle's notebook environment and brfore start running it  <br/>
-1) Click on the "Add data" button and add the data from the "VinBigData Chest X-ray Abnormalities Detection" competition  <br/>
-2) Add the data from the "vinbigdata-chest-xray-original-png"  <br/>
+1) Download the notebook from this repository <br/>
+2) Upload it in Kaggle's notebook environment and before start running it  <br/>
+3) Click on the "Add data" button and add the data from the "VinBigData Chest X-ray Abnormalities Detection" competition  <br/>
+4) Add the data from the "vinbigdata-chest-xray-original-png"  <br/>
