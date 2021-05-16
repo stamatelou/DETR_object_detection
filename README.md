@@ -1,7 +1,7 @@
-# Facebook's DETR object detection: 
+# Facebook's DETR object detection
 Automatic localization and classification of thoracic abnormalities from chest radiographs for the VinBigData Chest X-ray Abnormalities Detection Kaggle competition. 
 
-<b> Input Datasets: </b>
+<b> Input Datasets: </b> <br/>
 The provided images are annotated by 3 radiologists. The number of the provided images are 18000 (train set: 15000, test set: 3000). The image dataset includes 14 types of thoracic abnormalities from chest radiographs as well as images with no abnormality detected (no finding). The different labels are as follows: <br/>
 0 - Aortic enlargement  <br/>
 1 - Atelectasis  <br/>
@@ -28,4 +28,4 @@ train.csv - the train set metadata, with one row for each object, including a cl
 
 
 Step #1: 
-Download the dataset from the Data section of the [Kaggle competition][https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection/data?select=test] or open the notebook in kaggle's notebook section, click on the "Add data" and 
+Download the dataset from the Data section of the <a href="https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection/data?select=test">Kaggle competition</a> or open the notebook in kaggle's notebook section, click on the "Add data" and 
