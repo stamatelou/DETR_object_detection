@@ -6,7 +6,8 @@ B) Modeling
 C) Visualization 
 
 <b><H3> Input Datasets: </b> </H3>
-A) <b> Image dataset:</b>  18000 images (train set: 15000 images, test set: 3000 images)
+A) <b> Image dataset:</b> <a href="https://www.kaggle.com/corochann/vinbigdata-chest-xray-original-png?select=train_meta.csv">(test and train folder)</a>  
+18000 images (train set: 15000 images, test set: 3000 images)
 
 The image dataset includes 14 types of thoracic abnormalities from chest radiographs as well as images with no abnormality detected (no finding). The different labels are as follows: <br/>
 0 - Aortic enlargement <br/>
