@@ -5,9 +5,9 @@ Automatic localization and classification of thoracic abnormalities from chest r
 1) Image dataset:  18000 images (train set: 15000 images, test set: 3000 images)
 
 The image dataset includes 14 types of thoracic abnormalities from chest radiographs as well as images with no abnormality detected (no finding). The different labels are as follows: <br/>
-0 - Aortic enlargement  <br/>
-1 - Atelectasis  <br/>
-2 - Calcification <br/>
+Aortic enlargement [0] <br/>
+Atelectasis [1] <br/>
+Calcification [2] <br/>
 3 - Cardiomegaly <br/>
 4 - Consolidation <br/>
 5 - ILD <br/>
