@@ -27,8 +27,14 @@ the train set metadata, each row represents an abnormality of one image, its cla
 
 <b> <H3> Prerequisites:</b></H3>
 Running the DETR model requires the use of a GPU and <b> Kaggle's notebook environment </b> can provide that. <br/>
+The code of this repository can be also found in this Kaggle's public notebook. 
+
+OR 
+
 1) Download the notebook from this repository <br/>
 2) Upload it in Kaggle's notebook environment and before start running it  <br/>
 3) Click on the "Add data" button and add the data from the "VinBigData Chest X-ray Abnormalities Detection" competition  <br/>
 4) Add the data from the "vinbigdata-chest-xray-original-png"  <br/>
 5) Run the notebook (it might take approximately 8 hours to train the model) 
+
+
