@@ -38,7 +38,9 @@ OR
 5) Run the notebook (it might take approximately 8 hours to train the model) 
 
                                                                                                                               
-<a href="https://github.com/stamatelou/DETR_object_detection/blob/main/training_validation_curve.jpg"><img src="https://github.com/stamatelou/DETR_object_detection/blob/main/training_validation_curve.jpg" align="left" width="600" ></a>      
+<a href="https://github.com/stamatelou/DETR_object_detection/blob/main/training_validation_curve.jpg"><img src="https://github.com/stamatelou/DETR_object_detection/blob/main/training_validation_curve.jpg" align="left" width="600" ></a>   
+
+<a href="https://github.com/stamatelou/DETR_object_detection/blob/main/map_curve.jpg"><img src="https://github.com/stamatelou/DETR_object_detection/blob/main/map_curve.jpg" align="left" width="600" ></a>  
 
 
                                                                                                                               
