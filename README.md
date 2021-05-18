@@ -37,5 +37,5 @@ OR
 4) Add the data from the "vinbigdata-chest-xray-original-png"  <br/>
 5) Run the notebook (it might take approximately 8 hours to train the model) 
 
-![alt text](https://github.com/stamatelou/DETR_object_detection/blob/main/training_validation_curve.jpg =250x250)
+
 <img src=https://github.com/stamatelou/DETR_object_detection/blob/main/training_validation_curve.jpg" width="100" height="100">
