@@ -38,13 +38,18 @@ OR
 5) Run the notebook (it might take approximately 8 hours to train the model) <br/>
 
 For the training: <br/>
-1) Run the function "model_training()" which gives as an output the trained model"detr_model.pth" <br/>
+1) Run the function "model_training()" which gives as an output the trained model "detr_model.pth" <br/>
 
 For the testing: <br/>
 1) Load the "detr_model.pth" as a new dataset in Kaggle's environment <br/>
 2) Go to the main notebook <br/>
 3) Click on the "Add data" button and search the model by the URL of the "detr_model.pth" and add it to the data  <br/>
 
+C) <b>Results</b>
+
+Learning curve
 <a href="https://github.com/stamatelou/DETR_object_detection/blob/main/training_validation_curve.jpg"><img src="https://github.com/stamatelou/DETR_object_detection/blob/main/training_validation_curve.jpg"  width="350" ></a>   
+
+Mean average precision 
 <a href="https://github.com/stamatelou/DETR_object_detection/blob/main/map_curve.jpg"><img src="https://github.com/stamatelou/DETR_object_detection/blob/main/map_curve.jpg"  width="350" ></a>    
                                                                                                                               
