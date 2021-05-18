@@ -44,7 +44,7 @@ OR
 
  <tr>
     <td><a href="https://github.com/stamatelou/DETR_object_detection/blob/main/training_validation_curve.jpg"><img src="https://github.com/stamatelou/DETR_object_detection/blob/main/training_validation_curve.jpg" align="left" width="500" ></a>   </td>
-    <td><a href="https://github.com/stamatelou/DETR_object_detection/blob/main/training_validation_curve.jpg"><img src="https://github.com/stamatelou/DETR_object_detection/blob/main/training_validation_curve.jpg" align="left" width="500" ></a>   </td>
+    <td><a href="https://github.com/stamatelou/DETR_object_detection/blob/main/map_curve.jpg"><img src="https://github.com/stamatelou/DETR_object_detection/blob/main/map_curve.jpg" align="right" width="500" ></a>     </td>
     <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
   </tr>
                                                                                                                               
