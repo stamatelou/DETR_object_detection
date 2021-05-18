@@ -39,3 +39,6 @@ OR
 
 
 <img src=https://github.com/stamatelou/DETR_object_detection/blob/main/training_validation_curve.jpg" width="100" height="100">
+                                                                                                                              
+<a href="url"><img src="http://url.to/image.png" align="left" height="48" width="48" ></a>                                                                                                                             
+                                                                                                                              
