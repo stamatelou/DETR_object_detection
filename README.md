@@ -29,21 +29,19 @@ the train set metadata, each row represents an abnormality of one image, its cla
 Running the DETR model requires the use of a GPU and <b> Kaggle's notebook environment </b> can provide that. <br/>
 The code of this repository can be also found in this Kaggle's public notebook. 
 
-OR 
-
-1) Download the notebook from this repository <br/>
-2) Upload it in Kaggle's notebook environment and before start running it  <br/>
-3) Click on the "Add data" button and add the data from the "VinBigData Chest X-ray Abnormalities Detection" competition  <br/>
-4) Add the data from the "vinbigdata-chest-xray-original-png"  <br/>
-5) Run the notebook (it might take approximately 8 hours to train the model) <br/>
-
 For the training: <br/>
-1) Run the function "model_training()" which gives as an output the trained model "detr_model.pth" <br/>
+1) Select the mode = 'train'<br/>
+1) Add data --> Competitions Data --> Search for "VinBigData Chest X-ray Abnormalities Detection"<br/>
+2) Add data --> Datasets --> Search for "vinbigdata-chest-xray-original-png"<br/>
+3) Enable the GPU in the Settings --> Accelarator --> GPU<br/>
+The output of the mode is "detr_model.pth"<br/>
 
-For the testing: <br/>
-1) Load the "detr_model.pth" as a new dataset in Kaggle's environment <br/>
-2) Go to the main notebook <br/>
-3) Click on the "Add data" button and search the model by the URL of the "detr_model.pth" and add it to the data  <br/>
+For the predictions: <br/>
+1) Select the mode = 'predict'<br/>
+2) Go to the outputs of the previous mode (train mode "detr_model.pth"), select "Add new version" and keep the created URL<br/>
+3) Go back to Kaggle's notebook --> Add data --> Datasets --> Search by URL with the saved URL from the last step<br/>
+4) Εnable the CPU in the Settings --> Accelarator --> CPU<br/>
+5) Load the "detr_model.pth" as a new dataset in Kaggle's environment <br/>
 
 C) <b>Results</b>
 
