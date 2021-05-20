@@ -1,7 +1,7 @@
 # Facebook's DETR object detection
 Automatic localization and classification of thoracic abnormalities from chest radiographs for the VinBigData Chest X-ray Abnormalities Detection Kaggle competition using <a href="https://github.com/facebookresearch/detr">Facebook DETR's detection</a>.
 
-<a href="https://github.com/stamatelou/DETR_object_detection/blob/main/detr_architecture.jpg"><img src="https://github.com/stamatelou/DETR_object_detection/blob/main/detr_architecture.jpg"  width="350" ></a>    
+<a href="https://github.com/stamatelou/DETR_object_detection/blob/main/detr_architecture.jpg"><img src="https://github.com/stamatelou/DETR_object_detection/blob/main/detr_architecture.jpg"   ></a>    
 
 
 <b><H3> Input Datasets: </b> </H3>
