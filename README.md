@@ -47,9 +47,9 @@ For the predictions: <br/>
 
 <b>Results</b>
 
-Learning curve
+Learning curve<br/>
 <a href="https://github.com/stamatelou/DETR_object_detection/blob/main/training_validation_curve.jpg"><img src="https://github.com/stamatelou/DETR_object_detection/blob/main/training_validation_curve.jpg"  width="350" ></a>   
 
-Mean average precision 
+Mean average precision <br/>
 <a href="https://github.com/stamatelou/DETR_object_detection/blob/main/map_curve.jpg"><img src="https://github.com/stamatelou/DETR_object_detection/blob/main/map_curve.jpg"  width="350" ></a>    
                                                                                                                               
