@@ -41,12 +41,11 @@ The output of the mode is "detr_model.pth"<br/>
 
 For the predictions: <br/>
 1) Select the mode = 'predict'<br/>
-2) Go to the outputs of the previous mode (train mode "detr_model.pth"), select "Add new version" and keep the created URL<br/>
+2) Go to the outputs of the previous version (train mode "detr_model.pth"), select "Add new version" and keep the created URL<br/>
 3) Go back to Kaggle's notebook --> Add data --> Datasets --> Search by URL with the saved URL from the last step<br/>
 4) Εnable the CPU in the Settings --> Accelarator --> CPU<br/>
-5) Load the "detr_model.pth" as a new dataset in Kaggle's environment <br/>
 
-C) <b>Results</b>
+<b>Results</b>
 
 Learning curve
 <a href="https://github.com/stamatelou/DETR_object_detection/blob/main/training_validation_curve.jpg"><img src="https://github.com/stamatelou/DETR_object_detection/blob/main/training_validation_curve.jpg"  width="350" ></a>   
