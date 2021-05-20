@@ -45,7 +45,7 @@ For the predictions: <br/>
 3) Go back to Kaggle's notebook --> Add data --> Datasets --> Search by URL with the saved URL from the last step<br/>
 4) Εnable the CPU in the Settings --> Accelarator --> CPU<br/>
 
-<b>Results</b>
+<b><H3>Results: </b> </H3>
 
 Learning curve<br/>
 <a href="https://github.com/stamatelou/DETR_object_detection/blob/main/training_validation_curve.jpg"><img src="https://github.com/stamatelou/DETR_object_detection/blob/main/training_validation_curve.jpg"  width="350" ></a>   
