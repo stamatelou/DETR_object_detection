@@ -30,7 +30,8 @@ the train set metadata, each row represents an abnormality of one image, its cla
 
 <b> <H3> Prerequisites:</b></H3>
 Running the DETR model requires the use of a GPU and <b> Kaggle's notebook environment </b> can provide that. <br/>
-The code of this repository can be also found in this Kaggle's public notebook. 
+The code of this repository can be also found in <a href="https://www.kaggle.com/stamatelou/detr-thoracic-abnormalities-detection"> this Kaggle's public notebook</a>.
+
 
 For the training: <br/>
 1) Select the mode = 'train'<br/>
