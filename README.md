@@ -1,7 +1,3 @@
-This job took place by elena stamatelou and me (Haris Bournas) for the respective kaggle completition
-https://github.com/stamatelou/DETR_object_detection
-
-
 # Facebook's DETR object detection
 Automatic localization and classification of thoracic abnormalities from chest radiographs for the VinBigData Chest X-ray Abnormalities Detection Kaggle competition using <a href="https://github.com/facebookresearch/detr">Facebook DETR's detection</a>.
 
